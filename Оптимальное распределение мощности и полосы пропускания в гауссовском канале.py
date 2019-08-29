@@ -1,4 +1,4 @@
-
+# В данном коде решается задача выпуклого анализа из книги "Boyd and Vandenberghe, Convex Optimization"
 import numpy as np
 import cvxpy as cvx
 
